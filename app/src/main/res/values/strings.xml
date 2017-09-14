@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">RecyclerView_Sample1</string>
+    <string-array name="codename">
+        <item>
+            Cupcake
+        </item>
+        <item>
+            Donut
+        </item>
+        <item>
+            Eclair
+        </item>
+        <item>
+            Froyo
+        </item>
+        <item>
+            Gingerbread
+        </item>
+        <item>
+            Honeycomb
+        </item>
+        <item>
+            Ice Cream Sandwich
+        </item>
+        <item>
+            Jelly Bean
+        </item>
+        <item>
+            KitKat
+        </item>
+        <item>
+            Lollipop
+        </item>
+        <item>
+            Marshmallow
+        </item>
+        <item>
+            Nougat
+        </item>
+        <item>
+            Oreo
+        </item>
+    </string-array>
+    <string-array name="version">
+        <item>
+            v1.5
+        </item>
+        <item>
+            v1.6
+        </item>
+        <item>
+            v2.0
+        </item>
+        <item>
+            v2.2
+        </item>
+        <item>
+            v2.3
+        </item>
+        <item>
+            v3.0
+        </item>
+        <item>
+            v4.0
+        </item>
+        <item>
+            v4.1
+        </item>
+        <item>
+            v4.4
+        </item>
+        <item>
+            v5.0
+        </item>
+        <item>
+            v6.0
+        </item>
+        <item>
+            v7.0
+        </item>
+        <item>
+            v8.0
+        </item>
+    </string-array>
+    <string-array name="api">
+        <item>
+            API 3
+        </item>
+        <item>
+            API 4
+        </item>
+        <item>
+            API 5
+        </item>
+        <item>
+            API 8
+        </item>
+        <item>
+            API 9
+        </item>
+        <item>
+            API 11
+        </item>
+        <item>
+            API 14
+        </item>
+        <item>
+            API 16
+        </item>
+        <item>
+            API 19
+        </item>
+        <item>
+            API 21
+        </item>
+        <item>
+            API 23
+        </item>
+        <item>
+            API 24
+        </item>
+        <item>
+            API 26
+        </item>
+    </string-array>
+    <string-array name="date">
+        <item>
+            April 27, 2009
+        </item>
+        <item>
+            September 15, 2009
+        </item>
+        <item>
+            October 26, 2009
+        </item>
+        <item>
+            May 20, 2010
+        </item>
+        <item>
+            December 6, 2010
+        </item>
+        <item>
+            February 22, 2011
+        </item>
+        <item>
+            October 18, 2011
+        </item>
+        <item>
+            July 9, 2012
+        </item>
+        <item>
+            October 31, 2013
+        </item>
+        <item>
+            November 12, 2014
+        </item>
+        <item>
+            October 5, 2015
+        </item>
+        <item>
+            August 22, 2016
+        </item>
+        <item>
+            August 21, 2017
+        </item>
+    </string-array>
+</resources>
